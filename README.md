@@ -32,8 +32,8 @@ This plugin is a fork of [Selfish Fresh Start](https://github.com/chuckreynolds/
 ### White Label:
 - Changes login logo and brands login page
 - Sets 'remember me' to checked by default on log in screen
-- Replaces link in WP admin footer with link to EPLS website
-- Replace admin menubar icon with EPLS logo
-- Adds EPLS credit to admin dashboard footer
-- Creates a Dashboard widget with EPLS support information
+- Replaces link in WP admin footer with link to Boba website
+- Replace admin menubar icon with Boba logo
+- Adds Boba credit to admin dashboard footer
+- Creates a Dashboard widget with Boba support information
 - Prevents users with insufficient priveleges being nagged to update core
